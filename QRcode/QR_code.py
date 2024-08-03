@@ -1,3 +1,3 @@
 import qrcode as qr
-img = qr.make("hello")
-img.save("hello.png")
+img = qr.make("https://github.com/wahaj12569/PythonProjects")
+img.save("github.png")
