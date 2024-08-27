@@ -17,12 +17,14 @@ if len(email) >= 6:
                     else:
                         d=1
                 if (k==1 or j==1 or d==1):
-                    print("worng email 5")
+                    print("wrong email 5")
+                else:
+                    print("Right Email")
             else:
-                print ("worng email 4")
+                print ("wrong email 4")
         else:
-            print("worng email 3")
+            print("wrong email 3")
     else:
         print('wrong email 2')
 else:
-    print("Worng email 1")
+    print("Wrong email 1")
