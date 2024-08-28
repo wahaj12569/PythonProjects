@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import ttk
+from tkinter import Tk
 
 root = Tk()
 root.title('Wahaj')
