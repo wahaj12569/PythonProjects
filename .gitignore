@@ -4,3 +4,5 @@ env
 pipfile
 pipfile.lock
 test1.png
+.DS_STORE
+pywhatkit_dbs.txt
